@@ -85,7 +85,7 @@ function draw() {
     } else {
         background(0);
     }
-    getTime();
+    //getTime();
     fill('#DC143C')
     bar1.display();
     bar2.display();
